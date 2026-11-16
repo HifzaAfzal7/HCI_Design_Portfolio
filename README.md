@@ -1,10 +1,11 @@
 # HCI_Design_Portfolio
 
+## Hifza Afzal
 
-Course: Human-Computer Interaction (HCI)
-Name: Hifza Afzal
-AGNO: 2023-ag-9549 
-Section: M3
+**Course:** Human-Computer Interaction (HCI)
+**AGNO:** 2023-ag-9549
+**Section:** M3
+
 
 ## Week 1: Introduction to HCI and UX Workflow
 
